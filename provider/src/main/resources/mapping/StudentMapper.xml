@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="mapper.StudentMapper" >
+    <resultMap id="BaseResultMap" type="entity.Student">
+        <!--主键 column数据库列名 property实体类属性-->
+        <id column="id" property="id"></id>
+        <result column="name" property="name"></result>
+        <result column="age" property="age"></result>
+        <result column="gender" property="gender"></result>
+    </resultMap>
+
+    <sql id="allColumn">
+        id,name ,age,gender
+    </sql>
+<!--parameterType：接口中传递参数的类型 id：方法名  useGeneratedKeys：开启主键自增 keyProperty：设置主键-->
+    <insert id="insert" parameterType="entity.Student" useGeneratedKeys="true" keyProperty="id">
+        insert into student (id,name, age, gender) value (#{id},#{name},#{age},#{gender})
+    </insert>
+
+    <insert id="insertList" parameterType="list" useGeneratedKeys="true" keyProperty="id">
+        insert into student (id,name, age, gender) value
+        <foreach collection="list" item="stu" separator=",">
+            (#{stu.id},#{stu.name},#{stu.age},#{stu.gender})
+        </foreach>
+    </insert>
+
+
+    <select id="selectByPrimaryKey" resultMap="BaseResultMap">
+        select <include refid="allColumn"/> from student where id = #{id}
+    </select>
+
+    <select id="selectByName" resultMap="BaseResultMap">
+        select <include refid="allColumn"/> from student where name = #{name}
+    </select>
+
+    <select id="selectByNameAndAge" resultMap="BaseResultMap">
+        select <include refid="allColumn"/> from student where name = #{name} and age = #{age}
+    </select>
+    
+
+
+
+
+</mapper>

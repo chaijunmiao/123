@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5797ed78-751e-468b-b3b4-14e56575177f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\javaTools\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\javaTools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1hDTp2YdgBkEHdQWG4kYKQNWVaR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/provider/src/main/resources/mapping" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2851886" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.23994547" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entity" />
+      <recent name="cn.china.provider2.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\parent\provider\src\main\resources\mapping" />
+      <recent name="E:\workspace\parent\provider\src\main\java\mapper" />
+      <recent name="E:\workspace\parent\provider\src\main\java\cn\china\provider\entity" />
+      <recent name="$PROJECT_DIR$/provider2/src/main/resources" />
+      <recent name="$PROJECT_DIR$/feign/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderApplication">
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.china.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaregisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaregister" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.china.eurekaregister.EurekaregisterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.china.feign.FeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.china.provider2.Provider2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.china.provider.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.EurekaregisterApplication" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
+      <item itemvalue="Spring Boot.FeignApplication" />
+      <item itemvalue="Spring Boot.Provider2Application" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5797ed78-751e-468b-b3b4-14e56575177f" name="Default Changelist" comment="" />
+      <created>1599544841511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599544841511</updated>
+      <workItem from="1599544851398" duration="20278000" />
+      <workItem from="1599639911497" duration="83000" />
+      <workItem from="1599640044717" duration="5298000" />
+      <workItem from="1599699316531" duration="9359000" />
+      <workItem from="1599792683789" duration="10916000" />
+    </task>
+    <task id="LOCAL-00001" summary="qwer">
+      <created>1599810179010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599810179010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qwer" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="162" key="#Inspections" timestamp="1599638480126">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state x="465" y="162" key="#Inspections/0.25.1680.967@0.25.1680.967" timestamp="1599638480126" />
+    <state x="418" y="186" key="#Notifications" timestamp="1599809993779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="418" y="186" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1599809993779" />
+    <state x="297" y="143" width="1339" height="798" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599549228062">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state x="297" y="143" width="1339" height="798" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.967@0.25.1680.967" timestamp="1599549228062" />
+    <state x="282" y="37" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1599636776218">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state x="282" y="37" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1680.967@0.25.1680.967" timestamp="1599636776218" />
+    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1599810175796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599810175796" />
+    <state x="356" y="110" key="FileChooserDialogImpl" timestamp="1599803221001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="356" y="110" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599803221001" />
+    <state x="555" y="261" width="256" height="281" key="Github.ShareDialog" timestamp="1599809425101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="261" width="256" height="281" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599809425101" />
+    <state x="309" y="68" key="Github.UntrackedFilesDialog" timestamp="1599809437323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599809437323" />
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom" timestamp="1599702826494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599702826494" />
+    <state width="1618" height="114" key="GridCell.Tab.0.bottom/0.25.1680.967@0.25.1680.967" timestamp="1599639612551" />
+    <state width="1323" height="256" key="GridCell.Tab.0.center" timestamp="1599702826494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599702826494" />
+    <state width="1618" height="114" key="GridCell.Tab.0.center/0.25.1680.967@0.25.1680.967" timestamp="1599639612550" />
+    <state width="1323" height="256" key="GridCell.Tab.0.left" timestamp="1599702826494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599702826494" />
+    <state width="1618" height="114" key="GridCell.Tab.0.left/0.25.1680.967@0.25.1680.967" timestamp="1599639612549" />
+    <state width="1323" height="256" key="GridCell.Tab.0.right" timestamp="1599702826494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599702826494" />
+    <state width="1618" height="114" key="GridCell.Tab.0.right/0.25.1680.967@0.25.1680.967" timestamp="1599639612550" />
+    <state width="1323" height="256" key="GridCell.Tab.1.bottom" timestamp="1599702826495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599702826495" />
+    <state width="1618" height="114" key="GridCell.Tab.1.bottom/0.25.1680.967@0.25.1680.967" timestamp="1599639612552" />
+    <state width="1323" height="256" key="GridCell.Tab.1.center" timestamp="1599702826495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599702826495" />
+    <state width="1618" height="114" key="GridCell.Tab.1.center/0.25.1680.967@0.25.1680.967" timestamp="1599639612551" />
+    <state width="1323" height="256" key="GridCell.Tab.1.left" timestamp="1599702826495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599702826495" />
+    <state width="1618" height="114" key="GridCell.Tab.1.left/0.25.1680.967@0.25.1680.967" timestamp="1599639612551" />
+    <state width="1323" height="256" key="GridCell.Tab.1.right" timestamp="1599702826495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599702826495" />
+    <state width="1618" height="114" key="GridCell.Tab.1.right/0.25.1680.967@0.25.1680.967" timestamp="1599639612552" />
+    <state x="124" y="0" key="SettingsEditor" timestamp="1599809921089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="124" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599809921089" />
+    <state x="95" y="25" key="SettingsEditor/0.25.1680.967@0.25.1680.967" timestamp="1599614154888" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599810698730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599810698730" />
+    <state x="487" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599809489048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599809489048" />
+    <state x="0" y="25" width="1680" height="967" key="new project wizard" timestamp="1599639328481">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state x="0" y="25" width="1680" height="967" key="new project wizard/0.25.1680.967@0.25.1680.967" timestamp="1599639328481" />
+    <state x="336" y="25" width="1005" height="1466" key="search.everywhere.popup" timestamp="1599620450179">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state x="336" y="25" width="1005" height="1466" key="search.everywhere.popup/0.25.1680.967@0.25.1680.967" timestamp="1599620450179" />
+  </component>
+</project>
